@@ -42,6 +42,8 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
   -	Links para os outros CRUDs nas listagens (Ex: link para o detalhe do cliente da compra na lista de pedidos de compra)
 
 ## Observções
+- Criar um repositório com o seu nome-desafio-estagio-dev-php;
+- Adicionar à OTIMO como colaborador;
 - Publicar no github o código fonte da implementação;
 - No código fonte deverá constar um arquivo README.md com as seguintes informações:
   - Tecnologias utilizadas com suas respectivas versões;
@@ -49,6 +51,7 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
   - Orientações de execução do código e de seus testes;
   - Orientações de resolução de dependência de pacotes;
   - Orientações de execução de migrações de banco de dados, caso haja;
+- Incluir fichero sql da Base de dados.
 - Desafio válido até 23:59 do dia 31 de março de 2023.
   
 # Nossa análise
