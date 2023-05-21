@@ -1,5 +1,6 @@
-# Desafio para vaga de estágio para programador PHP
+Escolhe e realize um dos seguintes desafios:
 
+# 1. Desafio para vaga de estágio para programador back-end;
 Olá caro candidato, nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento. Neste desafio será avaliado os conhecimento em:
 
 - Análise e modelagem de dados;
@@ -27,8 +28,6 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
   - Mysql 8
 ## Bonus
 -	Implementar autenticação de usuário na aplicação.
--	Implementar a camada de Front-End utilizando a biblioteca javascript Bootstrap e ser responsiva.
--	Dashboard.
 
 ## Funcionalidades
 - CRUD de clientes.
@@ -49,7 +48,6 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
   - Orientações de resolução de dependência de pacotes;
   - Orientações de execução de migrações de banco de dados, caso haja;
 - Incluir fichero sql da Base de dados.
-- Desafio válido até 23:59 do dia 02 de Junho de 2023.
   
 # Nossa análise
 -	Organização do código.
@@ -57,7 +55,7 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
 -	Legibilidade.
 -	Comentários.
 
-# Sua maior paixão é desenvolvimento front end?
+# 2. Desafio para vaga de estágio para programador front-end.
 
 Caro candidato, se a sua maior vocação é a criação de aplicativos front end, o desafio abaixo é para si. Pode escolher este desafio para sua candidatura.
 
@@ -81,4 +79,8 @@ https://ogroup.com/listing/1712-thurston-dr/
 - Criar um repositório com o seu nome-desafio-estagio-dev-frontend;
 - Adicionar à OTIMO como colaborador;
 - Publicar no github o código fonte da implementação;
-- Desafio válido até 23:59 do dia 02 de Junho de 2023.
+
+
+# NOTA
+- Desafio válido até 23:59 do dia 02 de Junho de 2023;
+- Submeter antes desta data constitui vantagem.
