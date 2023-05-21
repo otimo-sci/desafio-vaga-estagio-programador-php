@@ -68,6 +68,8 @@ Caro candidato, nesse teste analisaremos seu conhecimento geral e inclusive velo
 ## Objectivo
 
 O desafio consiste em implementar uma aplicação Web inspirada numa página da internet. Você vai criar uma aplicação do zero inspirada nesta página do site The Oppenheim Group.
+Encontre o link da página a ser criada.
+https://ogroup.com/listing/1712-thurston-dr/
 
 ## Requisitos
  -	HTML5
