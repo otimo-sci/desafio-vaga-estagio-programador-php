@@ -57,11 +57,7 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
 
 # 2. Desafio para vaga de estágio para programador front-end.
 
-Caro candidato, se a sua maior vocação é a criação de aplicativos front end, o desafio abaixo é para si. Pode escolher este desafio para sua candidatura.
-
-# Desafio Desenvolvedor Front End
-
-Caro candidato, nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento.
+Caro candidato, se a sua maior vocação é a criação de aplicativos front end, o desafio abaixo é para si. Pode escolher este desafio para sua candidatura. Nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento.
 
 ## Objectivo
 
