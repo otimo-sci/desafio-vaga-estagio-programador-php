@@ -52,11 +52,35 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
   - Orientações de resolução de dependência de pacotes;
   - Orientações de execução de migrações de banco de dados, caso haja;
 - Incluir fichero sql da Base de dados.
-- Desafio válido até 23:59 do dia 31 de março de 2023.
+- Desafio válido até 23:59 do dia 02 de Junho de 2023.
   
 # Nossa análise
 -	Organização do código.
 -	Separação de módulos.
 -	Legibilidade.
 -	Comentários.
+
+# Sua maior paixão é desenvolvimento front end?
+
+Caro candidato, se a sua maior vocação é a criação de aplicativos front end, o desafio abaixo é para si. Pode escolher este desafio para sua candidatura.
+
+# Desafio Desenvolvedor Front End
+
+Caro candidato, nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento.
+
+## Objectivo
+
+O desafio consiste em implementar uma aplicação Web inspirada numa página da internet. Você vai criar uma aplicação do zero inspirada nesta página do site The Oppenheim Group.
+
+## Requisitos
+ -	HTML5
+ -	CSS3
+ -	Javascript
+ -	Bootstrap
+
+## Observções
+- Criar um repositório com o seu nome-desafio-estagio-dev-frontend;
+- Adicionar à OTIMO como colaborador;
+- Publicar no github o código fonte da implementação;
+- Desafio válido até 23:59 do dia 02 de Junho de 2023.
 
