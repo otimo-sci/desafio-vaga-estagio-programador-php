@@ -77,6 +77,6 @@ Deseja-se que o candidato
 - Publicar no github o código fonte da implementação;
 
 
-# NOTA
+# PRAZO
 - Desafio válido até 23:59 do dia 02 de Junho de 2023;
 - Submeter antes desta data constitui vantagem.
