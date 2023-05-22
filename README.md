@@ -37,7 +37,7 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
   -	deve possuir formulários para criação e actualização dos seus itens.
   -	Links para os outros CRUDs nas listagens (Ex: link para o detalhe do cliente da compra na lista de pedidos de compra)
 
-## Observções
+## Observações
 - Criar um repositório com o seu nome-desafio-estagio-dev-php;
 - Adicionar à OTIMO como colaborador;
 - Publicar no github o código fonte da implementação;
@@ -61,17 +61,17 @@ Caro candidato, se a sua maior vocação é a criação de aplicativos front end
 
 ## Objectivo
 
-O desafio consiste em implementar uma aplicação Web inspirada numa página da internet. Você vai criar uma aplicação do zero inspirada nesta página do site The Oppenheim Group.
-Encontre o link da página a ser criada.
-https://ogroup.com/listing/1712-thurston-dr/
+O desafio consiste em implementar uma aplicação Web inspirada numa página da internet. Você vai criar uma aplicação do zero inspirada numa página do site The Oppenheim Group. Nessa aplicação, deseja-se que o candidato crie uma estrutura parecida com a página do seguinte link https://ogroup.com/listing/1712-thurston-dr/
+
+Deseja-se que o candidato 
 
 ## Requisitos
  -	HTML5
  -	CSS3
- -	Javascript
+ -	Javascript (pode usar bibliotecas)
  -	Bootstrap
 
-## Observções
+## Observações
 - Criar um repositório com o seu nome-desafio-estagio-dev-frontend;
 - Adicionar à OTIMO como colaborador;
 - Publicar no github o código fonte da implementação;
