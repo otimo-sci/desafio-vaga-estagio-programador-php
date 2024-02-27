@@ -1,75 +1,63 @@
-Escolhe e realize um dos seguintes desafios:
+# Desafio para vaga de estágio para programador PHP;
 
-# 1. Desafio para vaga de estágio para programador back-end;
-Olá caro candidato, nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento. Neste desafio será avaliado os conhecimento em:
+Olá caro candidato, nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento.
 
-- Análise e modelagem de dados;
-- Arquitetura de software;
-- Arquitetura REST;
-- Gestão de Ambientes;
-- GIT;
-- Linguagens de programação;
-- Padrões de projeto;
-- Segurança;
-- Testes automatizados.
+-
 
 ## Objectivo
 
-O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e um banco de dados relacional MySQL, a criação das tabelas é livre para sua implementação. Você vai criar uma aplicação de registo de pedidos de compra, a partir de uma modelagem inicial.
+O desafio consiste em desenvolver um aplicativo de lista de contatos utilizando o padrão MVC (Model-View-Controller) em PHP. O objetivo é criar um sistema onde os usuários possam adicionar, visualizar, editar e excluir contatos da lista. O projeto deve ser estruturado de acordo com as boas práticas de desenvolvimento de software e seguir as seguintes diretrizes:
 
-## Requisitos
+### Requisitos Funcionais:
 
-- Criar um modelo de dados relacional;
-- Tecnologias a serem utilizadas
-  -	HTML5
-  -	CSS3
-  -	Javascript
-  -	PHP 8.2
-  - Mysql 8
-## Bonus
--	Implementar autenticação de usuário na aplicação.
+1. **Autenticação de Usuário:**
+   - Os usuários devem se autenticar no sistema antes de acessar a lista de contatos.
+   - Implemente um sistema básico de autenticação com formulários de login e registro.
+   - Os usuários devem poder se registrar fornecendo um nome de usuário, email e senha.
 
-## Funcionalidades
-- CRUD de clientes.
--	CRUD de produtos.
--	CRUD de pedidos de compra, com status (Em Aberto, Pago ou Cancelado).
-- Cada CRUD:
-  -	deve possuir formulários para criação e actualização dos seus itens.
-  -	Links para os outros CRUDs nas listagens (Ex: link para o detalhe do cliente da compra na lista de pedidos de compra)
+2. **Adicionar Contato:**
+   - Após autenticados, os usuários devem poder adicionar novos contatos à lista, fornecendo nome, email e número de telefone.
 
-## Observações
-- Criar um repositório com o seu nome-desafio-estagio-dev-php;
-- Adicionar à OTIMO como colaborador;
-- Publicar no github o código fonte da implementação;
-- No código fonte deverá constar um arquivo README.md com as seguintes informações:
-  - Tecnologias utilizadas com suas respectivas versões;
-  - Orientações de instalação e execução do ambiente;
-  - Orientações de execução do código e de seus testes;
-  - Orientações de resolução de dependência de pacotes;
-  - Orientações de execução de migrações de banco de dados, caso haja;
-- Incluir fichero sql da Base de dados.
-  
-# Nossa análise
--	Organização do código.
--	Separação de módulos.
--	Legibilidade.
--	Comentários.
+3. **Visualizar Lista de Contatos:**
+   - A lista de contatos deve ser exibida na página inicial do aplicativo, mostrando o nome e o email de cada contato.
+   - Os contatos devem ser carregados dinamicamente via JavaScript para uma experiência mais fluida.
 
-# 2. Desafio para vaga de estágio para programador front-end.
+4. **Editar Contato:**
+   - Os usuários devem poder editar informações de contatos existentes, incluindo nome, email e número de telefone.
 
-Caro candidato, se a sua maior vocação é a criação de aplicativos front end, o desafio abaixo é para si. Pode escolher este desafio para sua candidatura. Nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento.
+5. **Excluir Contato:**
+   - Os usuários devem poder excluir contatos da lista.
 
-## Objectivo
+### Requisitos Técnicos:
 
-O desafio consiste em implementar uma aplicação Web inspirada numa página da internet. Você vai criar uma aplicação do zero inspirada numa página do site The Oppenheim Group. Nessa aplicação, deseja-se que o candidato crie uma estrutura parecida com a página do seguinte link https://ogroup.com/listing/1712-thurston-dr/
+1. **Padrão MVC:**
+   - O projeto deve seguir o padrão Model-View-Controller para separar as preocupações de dados, apresentação e lógica de controle.
 
-Deseja-se que o candidato 
+2. **Banco de Dados:**
+   - Utilize um banco de dados MySQL para armazenar os contatos e informações de usuário.
+   - Crie uma tabela `contacts` com colunas para `id`, `name`, `email` e `phone`, e uma tabela `users` para armazenar informações de usuário.
 
-## Requisitos
- -	HTML5
- -	CSS3
- -	Javascript (pode usar bibliotecas)
- -	Bootstrap
+3. **Segurança:**
+   - Implemente medidas robustas de segurança, incluindo criptografia de senhas, para proteger as informações dos usuários.
+   - Utilize sessões PHP para gerenciar a autenticação do usuário e restringir o acesso a recursos protegidos.
+
+4. **Interatividade Dinâmica:**
+   - Use JavaScript para adicionar interatividade dinâmica, como carregamento assíncrono de contatos e validação de formulários.
+   - Implemente AJAX para facilitar a comunicação entre o front-end e o back-end.
+
+5. **Estilização e Layout:**
+   - Utilize bibliotecas de estilo, como Bootstrap ou Materialize, para estilizar e organizar o layout do aplicativo.
+   - Certifique-se de que o aplicativo seja responsivo e acessível em dispositivos móveis.
+
+### Critérios de Avaliação:
+
+- Implementação correta e segura dos requisitos funcionais, incluindo autenticação de usuário e manipulação de contatos.
+- Estruturação adequada do projeto com base no padrão MVC e boas práticas de programação.
+- Uso eficiente e eficaz de tecnologias front-end, como JavaScript e bibliotecas de estilo.
+- Funcionalidade sem erros e experiência do usuário agradável.
+- Segurança adequada para proteger contra vulnerabilidades conhecidas e ataques comuns.
+- Capacidade de expansão do projeto para incluir mais funcionalidades no futuro.
+
 
 ## Observações
 - Criar um repositório com o seu nome-desafio-estagio-dev-frontend;
@@ -78,5 +66,5 @@ Deseja-se que o candidato
 
 
 # PRAZO
-- Desafio válido até 23:59 do dia 02 de Junho de 2023;
+- Desafio válido até 23:59 do dia 08 de Março de 2024;
 - Submeter antes desta data constitui vantagem.
