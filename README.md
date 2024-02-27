@@ -1,9 +1,5 @@
 # Desafio para vaga de estágio para programador PHP;
 
-Olá caro candidato, nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento.
-
--
-
 ## Objectivo
 
 O desafio consiste em desenvolver um aplicativo de lista de contatos utilizando o padrão MVC (Model-View-Controller) em PHP. O objetivo é criar um sistema onde os usuários possam adicionar, visualizar, editar e excluir contatos da lista. O projeto deve ser estruturado de acordo com as boas práticas de desenvolvimento de software e seguir as seguintes diretrizes:
